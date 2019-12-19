@@ -1,0 +1,123 @@
+{
+    "name": "Postman",
+    "description": "<p>Postman is the only complete API development environment, used by nearly five million developers and more than 100,000 companies worldwide. Postman is an elegant, flexible tool used to build connected software via APIs &mdash; quickly, easily and accurately.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3776-postman.jpg",
+    "tags": [
+        "api description",
+        "automated testing",
+        "chrome",
+        "clients",
+        "collaboration",
+        "definitions",
+        "design",
+        "developer portals",
+        "diff",
+        "differences",
+        "documentation",
+        "extensions",
+        "forking",
+        "have api",
+        "have swagger",
+        "history",
+        "integrations",
+        "merging",
+        "mock",
+        "mocking",
+        "monitors",
+        "portals",
+        "previous versions",
+        "proxy",
+        "revision history",
+        "run in postman button",
+        "schemas",
+        "single source of truth",
+        "testing",
+        "track revisions",
+        "user activity",
+        "version control",
+        "version tagging",
+        "versioning",
+        "workspaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/postman\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Postman Echo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3776-postman.jpg",
+            "humanURL": "https:\/\/www.getpostman.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/postman-echo.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/postman-echo-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "Postman",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3776-postman.jpg",
+            "humanURL": "https:\/\/www.getpostman.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/postman.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/postman-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.getpostman.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.getpostman.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.getpostman.com\/index.php\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/postman"
+        },
+        {
+            "type": "Email",
+            "url": "info@getpostman.com"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/3776-2019-09-03-13-40-06.json"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/postmanlabs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/postmanclient"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.getpostman.com\/"
+        }
+    ]
+}
